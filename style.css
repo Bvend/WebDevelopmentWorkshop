@@ -1,0 +1,34 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 130%;
+    text-align: justify;
+    background-color: snow;
+    color:dimgray;
+}
+
+h1, h2, h3, h4, h5, h6 { 
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+
+h1, h3 { color: brown; }
+
+h2 { color: #004687; }
+
+#navbar {
+    background-color: snow;
+    color: #004687;
+}
+
+#home {
+    padding-top: 100px;
+}
+
+#sobre, #projetos, #redes-sociais {
+    padding-top: 25px;
+}
+
+#myavatar {
+    max-width: 300px;
+    border-radius: 3%;
+}
